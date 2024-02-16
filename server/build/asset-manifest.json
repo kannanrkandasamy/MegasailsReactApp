@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.584fae17.css",
+    "main.js": "/static/js/main.ef5aa8de.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/banner_hcb.png": "/static/media/banner_hcb.d38ef96433ded0886562.png",
+    "static/media/financing_banner.png": "/static/media/financing_banner.7fb8846603c94d18ee6a.png",
+    "static/media/transportation_banner.png": "/static/media/transportation_banner.eb2668c914ba834ea6a2.png",
+    "static/media/hurricane_banner.png": "/static/media/hurricane_banner.d5a2bfa721181599791f.png",
+    "static/media/insurance_banner.png": "/static/media/insurance_banner.3f205e720dd73012971c.png",
+    "static/media/charter_banner.png": "/static/media/charter_banner.7357edc6ac0dbf238981.png",
+    "static/media/ikon.png": "/static/media/ikon.512c7f01f3b572762a1c.png",
+    "static/media/my_logo.png": "/static/media/my_logo.ab7d5341a2fa112bad31.png",
+    "index.html": "/index.html",
+    "main.584fae17.css.map": "/static/css/main.584fae17.css.map",
+    "main.ef5aa8de.js.map": "/static/js/main.ef5aa8de.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.584fae17.css",
+    "static/js/main.ef5aa8de.js"
+  ]
+}
